@@ -1,4 +1,4 @@
-FILEPATH = "/run/media/peniamati/E4EA4894EA4864C0/Escritorio/MATI/Udemy/PythonMegaCourse/Proyectos/desktop_app1/todos.txt"
+FILEPATH = "todos.txt"
 
 
 def get_todos(filepath=FILEPATH):
